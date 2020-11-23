@@ -1,3 +1,4 @@
+
 ## Build Info
 - OpenCore: 0.6.4
 - CPU: AMD Ryzen 7 5800X
@@ -17,6 +18,7 @@
 - USB 正常
 - 睡眠唤醒 正常
 - HiDPI/165HZ：使用一键脚本无效，最后用了Hackintool定制解决
+- 音量/显示器亮度调节：使用第三方软件[MonitorControl](https://github.com/MonitorControl/MonitorControl)
 
 ## 缺陷
 
