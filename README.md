@@ -1,10 +1,9 @@
 
 ## 前言
 自用想要更加稳定，因此非必须不会轻易升级相关组件。。。喜欢尝鲜的就别使用该EFI了
-下一次更新预计是OC 0.6.5 正式版发布
 
 ## Build Info
-- OpenCore: 0.6.4
+- OpenCore: 0.6.6
 - CPU: AMD Ryzen 7 5800X
 - GPU: RX 580 8G
 - Motherboard: X570 AORUS PRO WIFI
@@ -26,7 +25,7 @@
 
 ## 缺陷
 
-- 系统盘显示为外置盘，加了 'ExternalDiskIcons' 参数仍然无解
+- ~~系统盘显示为外置盘，加了 'ExternalDiskIcons' 参数仍然无解~~ 参考[ISSUE/1](https://github.com/mrdear/Ryzen-5800x-X570-AORUS-PRO-WIFI-OC0.6.X/issues/1)
 - 麦克风未测试，没有该需求，日常使用AUX音箱正常输出
 
 ## Notes:
