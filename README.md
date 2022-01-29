@@ -5,12 +5,12 @@
 什么时候买到6800，什么时候再更新。
 
 ## Build Info
-- OpenCore: 0.7.5
+- OpenCore: 0.7.7
 - CPU: AMD Ryzen 7 5800X
 - GPU: RX 580 8G
 - Motherboard: X570 AORUS PRO WIFI
 - RAM: 光威（Gloway）8GB DDR4 3000频率 台式机内存条 弈Pro系列 * 4
-- OS: MacOS Monterey
+- OS: MacOS Monterey 12.2
 - HardDrive: 970 EVO PLUS 256G
 - Wifi/Bluetooth: Motherboard comes with 
 
