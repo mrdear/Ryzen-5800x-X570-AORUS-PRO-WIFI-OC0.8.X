@@ -2,15 +2,13 @@
 ## 前言
 自用想要更加稳定，因此非必须不会轻易升级相关组件。。。喜欢尝鲜的就别使用该EFI了
 
-什么时候买到6800，什么时候再更新。
-
 ## Build Info
-- OpenCore: 0.7.9
+- OpenCore: 0.8.8
 - CPU: AMD Ryzen 7 5800X
 - GPU: RX 580 8G
 - Motherboard: X570 AORUS PRO WIFI
 - RAM: 光威（Gloway）8GB DDR4 3000频率 台式机内存条 弈Pro系列 * 4
-- OS: MacOS Monterey 12.3.1
+- OS: MacOS Ventura 13.2
 - HardDrive: 970 EVO PLUS 256G
 - Wifi/Bluetooth: Motherboard comes with 
 
